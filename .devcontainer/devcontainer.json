@@ -5,7 +5,8 @@
   "image": "ghcr.io/daytum/devcontainer/devcontainer:latest",
   "extensions": [ 
       "ms-python.python",
-      "ms-toolsai.jupyter"
+      "ms-toolsai.jupyter",
+      "viktorvojtek.pdf-preview",
    ],
   "settings": { 
         "python.defaultInterpreterPath": "/opt/conda/bin/python",
