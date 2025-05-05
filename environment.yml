@@ -1,7 +1,0 @@
-name: assignment18
-channels:
-  - conda-forge
-dependencies:
-  - numpy=2.1.1
-  - python=3.11.9
-  - nbconvert=7.10.0
