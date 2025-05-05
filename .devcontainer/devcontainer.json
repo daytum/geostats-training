@@ -8,11 +8,19 @@
       "ms-toolsai.jupyter",
       "mathematic.vscode-pdf"
    ],
+  "customizations": {
+        "codespaces": {
+            "openFiles": [
+                "TOC.ipynb"
+            ]
+        }
+  },
   "settings": { 
         "python.defaultInterpreterPath": "/opt/conda/bin/python",
         "python.terminal.activateEnvironment": true,
 				"jupyter.kernels.excludePythonEnvironments": [
           "/usr/bin/python3"
+          "/bin/python3"
         ],
         },
   // "postCreateCommand": '',
