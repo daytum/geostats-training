@@ -6,7 +6,7 @@
   "extensions": [ 
       "ms-python.python",
       "ms-toolsai.jupyter",
-      "tomoki1207.pdf"
+      "mathematic.vscode-pdf"
    ],
   "settings": { 
         "python.defaultInterpreterPath": "/opt/conda/bin/python",
