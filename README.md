@@ -1,4 +1,4 @@
-# Daytum Development Environment
+# Daytum Geostats Training 
 
-This repository builds the Daytum specific development environment for Github Codespaces.
+This repository contains files related to a training class dated 05/07/2025 
 
