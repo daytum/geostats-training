@@ -1,6 +1,41 @@
 # Daytum Geostats Training 
 
-This repository contains files related to a training class dated 05/07/2025 
+This repository contains files related to a training class dated 05/07/2025.
+
+Instructor: Michael Pyrcz, The University of Texas at Austin
+
+#### Course Summary
+
+Building from fundamental probability and statistics, we cover entire spatial data analytics and geostatistics best practice workflows from data preparation through to decision making. We will accomplish this with,
+
+* Interactive lectures / discussion to cover the basic concepts
+
+* Demonstrations of methods and workflows in Python 
+
+* Hands-on experiential learning with well-documented workflows for accessibility
+
+
+#### Course Objectives
+
+Spatial data analytics and geostatistics for building spatial prediction and uncertainty models.
+
+You will learn:
+
+* spatial data debiasing
+
+* quantification and modeling of spatial continuity / correlation
+
+* spatial estimation with uncertainty
+
+* spatial simulation for subsurface resource forecasting
+
+* checking spatial models
+
+* decision making with spatial uncertainty models
+
+#### Course Schedule
+
+Spatial Data Analytics and Geostatistics 2-day Short Course
 
 | Day   | Time                  | Topic                                  | Objective                                                                                      |
 |-------|-----------------------|----------------------------------------|------------------------------------------------------------------------------------------------|
@@ -20,4 +55,27 @@ This repository contains files related to a training class dated 05/07/2025
 |       | 3:00 PM - 4:00 PM     | Decision Making with Uncertainty       | Present the workflow to make the best decision given an uncertainty model.                     |
 |       | 4:00 PM - 4:30 PM     | Wrap-up, Review and Q&A                | Conclusion, group discussion and Plus/Delta exercise                                           |
 
-Would you like a downloadable version or help converting this to another format (like HTML or LaTeX)?
+This is a nominal schedule. Note, we are learning and not schedule-driven; therefore the course delivery will adjust for the needs of the class. 
+
+#### Beyond the Course
+
+**There is Much More** – the building blocks can be reimplemented and expanded to address various other problems, opportunities. There is much more that we could cover,
+
+* Additional Theory
+
+* More Hands-on / Experiential
+
+* Workflow Development
+
+* Basics of Python / R
+
+* Advanced Data Preparation
+
+* Advanced Model QC
+
+* Methods to Integrate More Geoscience and Engineering
+
+* Integration of Machine Learning Spatial Modeling
+
+We are happy to discuss other, advanced courses and custom courses to meet your teams' educational needs to add value at work with data science.
+
