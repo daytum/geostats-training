@@ -1,4 +1,4 @@
-# Daytum Geostats Training 
+# Daytum 2-Day Spatial Data Analytics and Geostatistics Course 
 
 This repository contains files related to a training class dated 05/07/2025.
 
