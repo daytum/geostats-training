@@ -37,7 +37,7 @@ You will learn:
 
 Spatial Data Analytics and Geostatistics 2-day Short Course
 
-| Day   | Time                  | Topic                                  | Objective                                                                                      |  Notes  | Demonstration | Interactivity |
+| Day   | Time                  | Topic                                  | Objective                                                                                      |  Notes  | Demo | Interactive |
 |-----------|---------------------------|----------------------------------------|------------------------------------------------------------------------------------------------|------|----|------|
 | Day 1 | 8:00 AM - 8:30 AM     | Course Overview                        | Walk-through of the course plan, goals, methods and introductions                               | [Overview](/pdfs/CourseOverview.pdf) | | |
 |       | 8:30 AM - 9:30 AM     | Introduction to Spatial Data Analytics and Geostatistics | Introduction to fundamental concepts and terminology, fit-for-purpose modeling and spatial modeling goals. | [Introduction](/pdfs/Introduction.pdf)    | | |
