@@ -1,6 +1,8 @@
-# Daytum 2-Day Spatial Data Analytics and Geostatistics Course 
+<a href='https://www.daytum.io/'><img src="https://github.com/daytum/logos/blob/master/daytum_logo_2019.png?raw=true" alt="Daytum" style="width: 250px;"/></a>
 
-This repository contains files related to a training class dated 05/07/2025.
+# 2-Day Spatial Data Analytics and Geostatistics Course 
+
+This repository contains files related to a training class dated 05/19/2025.
 
 Instructor: Michael Pyrcz, The University of Texas at Austin
 
@@ -82,3 +84,16 @@ This is a nominal schedule. Note, we are learning and not schedule-driven; there
 
 We are happy to discuss other, advanced courses and custom courses to meet your teams' educational needs to add value at work with data science.
 
+Daytum's have been taken by employees at:<br><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Chevron_Logo.svg/918px-Chevron_Logo.svg.png" style="width: 40px;"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/Chord_Energy_logo.svg/1920px-Chord_Energy_logo.svg.png" style="width: 160px;"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://china.aramco.com/-/media/aramcochina/news/logo01.jpg?w=1440&hash=3EBC01163D4F2674F66858B79B47498916E8F3F5" style="width: 90px;"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://www.equinor.com/content/dam/statoil/image/news/2018-march/equinor-logo-rgb-16-9.jpg" style="width: 100px;"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://1000logos.net/wp-content/uploads/2020/09/ConocoPhillips-Logo.png" style="width: 100px;"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://1000logos.net/wp-content/uploads/2016/10/BP-Logo.png" style="width: 100px;"/>
+<p><i>&copy; Copyright daytum 2025. All Rights Reserved</i></p>
