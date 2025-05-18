@@ -6,7 +6,8 @@
   "extensions": [
     "ms-python.python",
     "ms-toolsai.jupyter",
-    "mathematic.vscode-pdf"
+    "mathematic.vscode-pdf",
+    "shd101wyy.markdown-preview-enhanced"
   ],
   "settings": {
     "python.defaultInterpreterPath": "/opt/conda/bin/python",
@@ -20,11 +21,11 @@
     "vscode": {
       "settings": {
         "workbench.startupEditor": "none",
+        "markdown-preview-enhanced.automaticallyShowPreviewOfMarkdownBeingEdited": true,
         "markdown.preview.openPreview": true,
         "[markdown]": {
           "editor.defaultFormatter": "esbenp.prettier-vscode",
-          "editor.quickSuggestions": true,
-          "editor.renderWhitespace": "all"
+          "editor.quickSuggestions": true
         }
       }
     }
